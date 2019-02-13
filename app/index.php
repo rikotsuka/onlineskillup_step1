@@ -20,7 +20,8 @@
           <input type="submit" value="送信" />
         </form>
     <?php
-      }
+      } 
+      
     ?>
   </body>
 </html>
